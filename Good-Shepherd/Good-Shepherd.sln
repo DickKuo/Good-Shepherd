@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good-Shepherd", "Good-Shepherd\Good-Shepherd.csproj", "{C7EE0E61-BEB6-4B91-85BA-8D67833D0240}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good-Shepherd", "Good-Shepherd\Good-Shepherd.csproj", "{F7433644-52DE-414D-BFFC-995EF5B3F164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good-Shepherd.Tests", "Good-Shepherd.Tests\Good-Shepherd.Tests.csproj", "{31CAC552-D241-4ED7-B2F4-B51357CB0105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C7EE0E61-BEB6-4B91-85BA-8D67833D0240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7EE0E61-BEB6-4B91-85BA-8D67833D0240}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7EE0E61-BEB6-4B91-85BA-8D67833D0240}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7EE0E61-BEB6-4B91-85BA-8D67833D0240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7433644-52DE-414D-BFFC-995EF5B3F164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7433644-52DE-414D-BFFC-995EF5B3F164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7433644-52DE-414D-BFFC-995EF5B3F164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7433644-52DE-414D-BFFC-995EF5B3F164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31CAC552-D241-4ED7-B2F4-B51357CB0105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CAC552-D241-4ED7-B2F4-B51357CB0105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CAC552-D241-4ED7-B2F4-B51357CB0105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CAC552-D241-4ED7-B2F4-B51357CB0105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
