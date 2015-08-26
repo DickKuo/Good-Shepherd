@@ -20,5 +20,11 @@ namespace Good_Shepherd.Controllers
         {
             return View();
         }
+
+        public ActionResult FirstAjax()
+        {
+            string sss = Request.Form["EmpCode"];
+            return Json(new { success = "FirstAjax" });
+        }
     }
 }

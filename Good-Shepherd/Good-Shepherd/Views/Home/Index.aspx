@@ -5,8 +5,30 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <h2><%: ViewData["Message"] %></h2>
-    <p>
-        若要進一步了解 ASP.NET MVC，請造訪 <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>。
-    </p>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+
+        $.ajax({
+            url: '/Home/FirstAjax',
+            type: 'POST',
+            data: {
+               EmpCode:"123456"
+            },
+            contentType: 'application/json; charset=utf-8',
+            success: function (data) {
+                alert(data.success);
+            },
+            error: function () {
+                alert("error");
+            }
+        });
+
+
+    });
+</script>
+   <p>工號:<input id="EmpCode"/></p> 
+   <p>姓名:<input id="EmpName"/></p>
+  
+      <button Id="Submit">提交</button>
 </asp:Content>

@@ -1,0 +1,10 @@
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd\bin\Good-Shepherd.dll
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd\bin\Good-Shepherd.pdb
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd\obj\Debug\Good-Shepherd.csprojResolveAssemblyReference.cache
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd\obj\Debug\Good-Shepherd.dll
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd\obj\Debug\Good-Shepherd.pdb
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd\bin\Good-Shepherd.dll
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd\bin\Good-Shepherd.pdb
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd\obj\Debug\Good-Shepherd.csprojResolveAssemblyReference.cache
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd\obj\Debug\Good-Shepherd.dll
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd\obj\Debug\Good-Shepherd.pdb

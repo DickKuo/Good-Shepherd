@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{31CAC552-D241-4ED7-B2F4-B51357CB0105}</ProjectGuid>
+    <ProjectGuid>{3DE04B6A-FD69-43DA-B26B-C2C3385FB338}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Good_Shepherd.Tests</RootNamespace>
@@ -60,6 +60,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Good-Shepherd\Good-Shepherd.csproj">
+      <Project>{EDC22BC9-AC9B-4B59-86FE-C58453974817}</Project>
+      <Name>Good-Shepherd</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

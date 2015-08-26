@@ -1,0 +1,16 @@
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.Tests.dll.config
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.Tests.dll
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.Tests.pdb
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.dll
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.pdb
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd.Tests\obj\Debug\Good-Shepherd.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd.Tests\obj\Debug\Good-Shepherd.Tests.dll
+C:\Users\Dick\Desktop\20150506_客製Error\Good-Shepherd.Tests\obj\Debug\Good-Shepherd.Tests.pdb
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.Tests.dll.config
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.Tests.dll
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.Tests.pdb
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.dll
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd.Tests\bin\Debug\Good-Shepherd.pdb
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd.Tests\obj\Debug\Good-Shepherd.Tests.csprojResolveAssemblyReference.cache
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd.Tests\obj\Debug\Good-Shepherd.Tests.dll
+C:\GitHub\Good-Shepherd\Good-Shepherd\Good-Shepherd.Tests\obj\Debug\Good-Shepherd.Tests.pdb

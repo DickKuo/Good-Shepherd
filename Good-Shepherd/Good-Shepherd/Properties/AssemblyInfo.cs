@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Good_Shepherd")]
-[assembly: AssemblyCopyright("Copyright (C)  2014")]
+[assembly: AssemblyCopyright("Copyright (C)  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-[assembly: Guid("c664aa20-9968-4fdd-b9c4-caa2bbf16951")]
+[assembly: Guid("31f85798-fc80-4e3a-99d7-ccba2e355699")]
 
 // 組件的版本資訊是由下列四項值構成:
 //
